@@ -7,3 +7,4 @@ This project focuses on using deep learning techniques for the detection of diab
 ## ResNet-50 Architecture
 
 We have employed the ResNet-50 architecture, a deep convolutional neural network known for its ability to effectively learn hierarchical features from images. ResNet-50's use of residual blocks allows for the training of very deep networks, making it suitable for complex image recognition tasks.
+
